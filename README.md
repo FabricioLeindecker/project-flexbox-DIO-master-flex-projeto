@@ -1,2 +1,2 @@
-# project-flexbox-DIO-master-flex-projeto
+# project-flexbox-DIO-master-flex
 Projeto Flexbox da DIO
